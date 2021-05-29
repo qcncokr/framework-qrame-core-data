@@ -1,0 +1,26 @@
+﻿Connection strings for SQL Server 2008
+http://www.connectionstrings.com/sql-server-2008
+
+Connection strings for Oracle
+http://www.connectionstrings.com/oracle
+
+Connection strings for MySQL
+http://www.connectionstrings.com/mysql
+
+Connection strings for IBM DB2
+http://www.connectionstrings.com/ibm-db2
+
+Connection strings for Excel 2007
+http://www.connectionstrings.com/excel-2007
+
+Connection strings for Textfile
+http://www.connectionstrings.com/textfile
+
+Connection strings for Access 2007
+http://www.connectionstrings.com/access-2007
+
+Connection strings for SQL Azure
+http://www.connectionstrings.com/sql-azure
+
+Connection strings for OLAP, Analysis Services
+http://www.connectionstrings.com/olap-analysis-services

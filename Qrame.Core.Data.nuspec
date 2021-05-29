@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+    <metadata>
+        <id>$id$</id>
+        <version>1.0.1</version>
+        <title>$title$</title>
+        <authors>qcn</authors>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <license type="expression">MIT</license>
+        <description>Qrame.Core.Data Library</description>
+        <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+        <copyright>$copyright$</copyright>
+        <tags>Qrame Framework</tags>
+        <dependencies>
+            <dependency id="MsgPack.Cli" version="1.0.1" />
+            <dependency id="Newtonsoft.Json" version="12.0.3" />
+            <dependency id="System.Data.Common" version="4.3.0" />
+            <dependency id="Npgsql" version="4.1.5" />
+            <dependency id="MySql.Data" version="8.0.22" />
+            <dependency id="Oracle.ManagedDataAccess.Core" version="2.19.91" />
+            <dependency id="System.Data.SqlClient" version="4.8.2" />
+            <dependency id="System.Data.SQLite.Core" version="1.0.113.6" />
+            <dependency id="System.Diagnostics.Debug" version="4.3.0" />
+            <dependency id="System.Drawing.Primitives" version="4.3.0" />
+            <dependency id="System.IO.FileSystem" version="4.3.0" />
+            <dependency id="System.IO.FileSystem.Primitives" version="4.3.0" />
+            <dependency id="System.Net.Primitives" version="4.3.0" />
+            <dependency id="System.Threading" version="4.3.0" />
+        </dependencies>
+    </metadata>
+</package>
