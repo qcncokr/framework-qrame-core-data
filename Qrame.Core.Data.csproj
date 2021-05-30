@@ -4,12 +4,14 @@
         <TargetFramework>netcoreapp3.1</TargetFramework>
         <Authors>junworks77</Authors>
         <Company>qcn</Company>
+        <PackageId>Qcn.Qrame.Core.Data</PackageId>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     </PropertyGroup>
 
     <ItemGroup>
-        <PackageReference Include="Qrame.Core" Version="1.0.0" />
         <PackageReference Include="MsgPack.Cli" Version="1.0.1" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+        <PackageReference Include="Qcn.Qrame.Core" Version="1.0.0" />
         <PackageReference Include="System.Data.Common" Version="4.3.0" />
         <PackageReference Include="Npgsql" Version="4.1.5" />
         <PackageReference Include="MySql.Data" Version="8.0.22" />
