@@ -6,6 +6,7 @@
         <Company>qcn</Company>
         <PackageId>Qcn.Qrame.Core.Data</PackageId>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <Version>1.0.1</Version>
     </PropertyGroup>
 
     <ItemGroup>
