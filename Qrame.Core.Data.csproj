@@ -6,13 +6,13 @@
         <Company>qcn</Company>
         <PackageId>Qcn.Qrame.Core.Data</PackageId>
         <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-        <Version>1.0.1</Version>
+        <Version>1.0.2</Version>
     </PropertyGroup>
 
     <ItemGroup>
         <PackageReference Include="MsgPack.Cli" Version="1.0.1" />
         <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
-        <PackageReference Include="Qcn.Qrame.Core" Version="1.0.0" />
+        <PackageReference Include="Qcn.Qrame.Core" Version="1.0.3" />
         <PackageReference Include="System.Data.Common" Version="4.3.0" />
         <PackageReference Include="Npgsql" Version="4.1.5" />
         <PackageReference Include="MySql.Data" Version="8.0.22" />
